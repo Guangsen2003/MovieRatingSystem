@@ -7,15 +7,24 @@ The program uses several Java decision structures, including if-else statements,
 
 ## Features:
 
-• Asks the user for their name​
+• Asks the user for their name
+​
 • Accepts five movie names​
+
 • Accepts and validates five ratings from 1 to 10​
+
 • Stores movies and ratings in parallel arrays​
-• Calculates the average movie rating​
+
+• Calculates the average movie rating
+​
 • Classifies the user's overall movie preferences​
-• Detects ratings of 10 and very low ratings​
+
+• Detects ratings of 10 and very low ratings
+​
 • Checks whether the user consistently gives high ratings​
+
 • Uses a switch statement for genre preferences​
+
 • Gives a movie recommendation based on the selected genre​
 
 ## Reflection:
